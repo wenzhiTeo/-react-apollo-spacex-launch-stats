@@ -1,11 +1,11 @@
 {
   "name": "react-apollo-spacex-launch-stats",
   "version": "1.0.0",
-  "description": "",
+  "description": "App that using SpaceX data to learn React & Apollo",
   "main": "index.js",
   "scripts": {
-    "start": "node server",
-    "server": "nodemon server"
+    "start": "node index.js",
+    "server": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
