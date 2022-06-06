@@ -2,10 +2,10 @@
   "name": "react-apollo-spacex-launch-stats",
   "version": "1.0.0",
   "description": "App that using SpaceX data to learn React & Apollo",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js",
-    "server": "nodemon index.js",
+    "start": "node server.js",
+    "server": "nodemon server.js",
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
