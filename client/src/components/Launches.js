@@ -38,6 +38,7 @@ export class Launches extends Component {
               </Fragment>
             );
           }}
+          <h6>Learning Project by wenzhi</h6>
         </Query>
       </React.Fragment>
     );
