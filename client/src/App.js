@@ -5,10 +5,11 @@ import "./App.css";
 import Launches from "./components/Launches";
 import Launch from "./components/Launch";
 import logo from "./SpaceX_Logo.png";
+import Footer from "./components/Footer";
 
 
 const client = new ApolloClient({
-  uri: "/graphql",
+  uri: "http://localhost:4000/graphql",
   cache: new InMemoryCache(),
 });
 
@@ -33,7 +34,9 @@ function App() {
             </Routes>
           </BrowserRouter>
         </div>
+        <Footer></Footer>
       </React.Fragment>
+      
     </ApolloProvider>
   );
 }
