@@ -72,6 +72,7 @@ function QueryLaunch() {
         <li className="list-group-item">Rocket Type: {rocket_type}</li>
       </ul>
       <hr />
+      <h6>Learning Project by wenzhi</h6>
       <Link to="/" className="btn btn-secondary">Back</Link>
     </Fragment>
   );
