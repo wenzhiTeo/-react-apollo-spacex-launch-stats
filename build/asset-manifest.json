@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.2f230d81.js",
+    "main.css": "/static/css/main.f45aa39e.css",
+    "main.js": "/static/js/main.fa096527.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/SpaceX_Logo.png": "/static/media/SpaceX_Logo.b8f281ea7a8013d766e9.png",
     "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.2f230d81.js.map": "/static/js/main.2f230d81.js.map",
+    "main.f45aa39e.css.map": "/static/css/main.f45aa39e.css.map",
+    "main.fa096527.js.map": "/static/js/main.fa096527.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.2f230d81.js"
+    "static/css/main.f45aa39e.css",
+    "static/js/main.fa096527.js"
   ]
 }
