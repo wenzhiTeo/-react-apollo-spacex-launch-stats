@@ -5,5 +5,5 @@
 - npm run build will run this related command `"build": "react-scripts build && mv build ../public",`
 - but in windows need to manually move the `build` to root and reaname it to `public`
  
- A correct folder structure 
+ **A correct folder structure** <br />
  ![image](https://user-images.githubusercontent.com/99173738/172128856-bbf0e79c-fb0e-4771-873d-c2f4451ae69a.png)
